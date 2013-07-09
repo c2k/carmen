@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    us:
+      hi:
+        oa:
+          name: Oahu
+        ma:
+          name: Maui
+        ha:
+          name: Hawaii
+        ka:
+          name: Kauai
+        mo:
+          name: Molokai
+        la:
+          name: Lanai
