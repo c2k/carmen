@@ -1,13 +1,13 @@
 ---
-- code: OA
+- code: KAUAI
   type: island
-- code: MA
+- code: OAHU
   type: island
-- code: HA
+- code: MOLOKAI
   type: island
-- code: KA
+- code: LANAI
   type: island
-- code: MO
+- code: MAUI
   type: island
-- code: LA
+- code: HAWAII
   type: island

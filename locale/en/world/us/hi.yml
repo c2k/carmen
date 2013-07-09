@@ -3,15 +3,15 @@ en:
   world:
     us:
       hi:
-        oa:
-          name: Oahu
-        ma:
-          name: Maui
-        ha:
-          name: Hawaii
-        ka:
+        kauai:
           name: Kauai
-        mo:
+        oahu:
+          name: Oahu
+        molokai:
           name: Molokai
-        la:
+        lanai:
           name: Lanai
+        maui:
+          name: Maui
+        hawaii:
+          name: Hawaii, The Big Island
